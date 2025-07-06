@@ -1,0 +1,65 @@
+body {
+    font-size: 15pt;
+}body {
+    background-image: url(imgyp.jpg);
+    background-size: 800px 800px;
+}
+h2{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 2px;
+}
+.container{
+    font-size: 10px;
+    width: 250px;
+    line-height: 45px;
+    height: 300px;
+    padding: 20px;
+    background-color: lavender;
+    margin: 50px;
+    border: 2px solid palegreen;
+    align-content: center;
+    border-radius: 25px;
+    box-shadow: 20px 25px 25px lightgrey;
+     
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#name{
+    font-size: 15px;
+    border: 2px solid burlywood ;
+    border-radius: 20px;
+    padding: 3px;
+}
+#PhoneNumber{
+    font-size: 15px;
+    border: 2px solid burlywood ;
+    border-radius: 20px;
+    padding: 3px
+}
+#email{
+    font-size: 15px;
+    border: 2px solid burlywood ;
+    border-radius: 20px;
+    padding: 3px
+}
+.mybutton{
+    font-weight: bold;
+    height: 30px;
+    background-color: dodgerblue;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 20px;
+    
+}
+#password{
+    font-size: 15px;
+    border: 2px solid burlywood ;
+    border-radius: 20px;
+    padding: 3px
+}
